@@ -421,21 +421,6 @@ spline-viewer {
   .service-card {
     padding: 1rem;
   }
-  
-  /* Mobile hero section adjustments */
-  .hero-content {
-    flex-direction: column;
-    text-align: center;
-    gap: 2rem;
-  }
-  
-  .hero-left {
-    order: 2;
-  }
-  
-  .hero-center {
-    order: 1;
-  }
 }
 
 @media (max-width: 480px) {
